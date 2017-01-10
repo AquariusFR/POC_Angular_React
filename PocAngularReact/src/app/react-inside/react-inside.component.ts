@@ -1,3 +1,4 @@
+import { ReactTreeView } from './react-tree-view';
 import { Component, OnInit } from '@angular/core';
 
 @Component({
@@ -5,11 +6,15 @@ import { Component, OnInit } from '@angular/core';
   templateUrl: './react-inside.component.html',
   styleUrls: ['./react-inside.component.css']
 })
+
 export class ReactInsideComponent implements OnInit {
 
   constructor() { }
 
   ngOnInit() {
+
+    ReactTreeView.render('toto');
+
   }
 
 }
