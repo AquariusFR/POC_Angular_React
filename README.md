@@ -5,5 +5,8 @@ Angular Universal (pour le SSR)
 
 https://github.com/angular/angular-cli
 
-## install Angular CLI
+## installation Angular CLI
 Run `npm install -g angular-cli@latest`
+
+## lancement du serveur
+Run `ng serve`
