@@ -1,4 +1,12 @@
 # PocAngularReact
++POC mettant en scène Angular (2) avec React.
+ +Angular Universal (pour le SSR)
+
+
+## install Angular CLI
+Run `npm install -g angular-cli@latest`
+
+
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.24.
 
